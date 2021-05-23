@@ -1,0 +1,3 @@
+[build]
+# point to your sccache: https://github.com/mozilla/sccache#usage
+#rustc-wrapper = "/home/mike/.cargo/bin/sccache"
